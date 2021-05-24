@@ -1,0 +1,20 @@
+com/example/interview1/Interview1Application.java
+ com.example.interview1.Interview1Application
+com/example/interview1/entities/Address.java
+ com.example.interview1.entities.Address
+com/example/interview1/repositories/CompanyRepo.java
+ com.example.interview1.repositories.CompanyRepo
+com/example/interview1/entities/User.java
+ com.example.interview1.entities.User
+com/example/interview1/entities/Company.java
+ com.example.interview1.entities.Company
+com/example/interview1/controllers/UserController.java
+ com.example.interview1.controllers.UserController
+com/example/interview1/repositories/UserRepo.java
+ com.example.interview1.repositories.UserRepo
+com/example/interview1/controllers/CompanyController.java
+ com.example.interview1.controllers.CompanyController
+com/example/interview1/repositories/AddressRepo.java
+ com.example.interview1.repositories.AddressRepo
+com/example/interview1/controllers/AddressController.java
+ com.example.interview1.controllers.AddressController
